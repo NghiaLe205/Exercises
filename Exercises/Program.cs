@@ -8,7 +8,7 @@ namespace Exercises
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("List of numbers greater than 30 and less than 100: ");
+            Console.WriteLine("List of numbers greater than 30 and less than 100:");
             Greatthan30AndLess100();
 
             Console.WriteLine("Uppercase words at least 5 characters long:");
